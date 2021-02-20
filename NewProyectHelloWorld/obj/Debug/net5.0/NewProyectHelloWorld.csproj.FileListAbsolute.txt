@@ -1,0 +1,16 @@
+C:\Users\C02-L01\Documents\GitHub\Proyecto-Inicial-C-y-.NET\NewProyectHelloWorld\bin\Debug\net5.0\NewProyectHelloWorld.exe
+C:\Users\C02-L01\Documents\GitHub\Proyecto-Inicial-C-y-.NET\NewProyectHelloWorld\bin\Debug\net5.0\NewProyectHelloWorld.deps.json
+C:\Users\C02-L01\Documents\GitHub\Proyecto-Inicial-C-y-.NET\NewProyectHelloWorld\bin\Debug\net5.0\NewProyectHelloWorld.runtimeconfig.json
+C:\Users\C02-L01\Documents\GitHub\Proyecto-Inicial-C-y-.NET\NewProyectHelloWorld\bin\Debug\net5.0\NewProyectHelloWorld.runtimeconfig.dev.json
+C:\Users\C02-L01\Documents\GitHub\Proyecto-Inicial-C-y-.NET\NewProyectHelloWorld\bin\Debug\net5.0\NewProyectHelloWorld.dll
+C:\Users\C02-L01\Documents\GitHub\Proyecto-Inicial-C-y-.NET\NewProyectHelloWorld\bin\Debug\net5.0\ref\NewProyectHelloWorld.dll
+C:\Users\C02-L01\Documents\GitHub\Proyecto-Inicial-C-y-.NET\NewProyectHelloWorld\bin\Debug\net5.0\NewProyectHelloWorld.pdb
+C:\Users\C02-L01\Documents\GitHub\Proyecto-Inicial-C-y-.NET\NewProyectHelloWorld\obj\Debug\net5.0\NewProyectHelloWorld.csprojAssemblyReference.cache
+C:\Users\C02-L01\Documents\GitHub\Proyecto-Inicial-C-y-.NET\NewProyectHelloWorld\obj\Debug\net5.0\NewProyectHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C02-L01\Documents\GitHub\Proyecto-Inicial-C-y-.NET\NewProyectHelloWorld\obj\Debug\net5.0\NewProyectHelloWorld.AssemblyInfoInputs.cache
+C:\Users\C02-L01\Documents\GitHub\Proyecto-Inicial-C-y-.NET\NewProyectHelloWorld\obj\Debug\net5.0\NewProyectHelloWorld.AssemblyInfo.cs
+C:\Users\C02-L01\Documents\GitHub\Proyecto-Inicial-C-y-.NET\NewProyectHelloWorld\obj\Debug\net5.0\NewProyectHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\C02-L01\Documents\GitHub\Proyecto-Inicial-C-y-.NET\NewProyectHelloWorld\obj\Debug\net5.0\NewProyectHelloWorld.dll
+C:\Users\C02-L01\Documents\GitHub\Proyecto-Inicial-C-y-.NET\NewProyectHelloWorld\obj\Debug\net5.0\ref\NewProyectHelloWorld.dll
+C:\Users\C02-L01\Documents\GitHub\Proyecto-Inicial-C-y-.NET\NewProyectHelloWorld\obj\Debug\net5.0\NewProyectHelloWorld.pdb
+C:\Users\C02-L01\Documents\GitHub\Proyecto-Inicial-C-y-.NET\NewProyectHelloWorld\obj\Debug\net5.0\NewProyectHelloWorld.genruntimeconfig.cache
